@@ -1,0 +1,13 @@
+package edu.tntech.csc2310;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class CoursePrApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}

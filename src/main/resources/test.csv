@@ -1,0 +1,11 @@
+MATH 1910,CSC 1300,1,Calculus 1
+MATH 1910,CSC 1200,1,Calculus 1
+CSC 1200,CSC 1300,1,Intro to Computing
+CSC 1300,CSC 1310,1,<div style="padding:5px 5px 5px 5px;" class="content"><a target="_blank" href="https://ttuss1.tntech.edu/PROD/bwckctlg.p_display_courses?term_in=202180&one_subj=CSC&sel_crse_strt=1300&sel_crse_end=1300&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=">Intro to Programming and Problem Solving</a></div>
+CSC 1310,CSC 2310,1,Data Structures
+CSC 1310,CSC 2400,1,Data Structures
+CSC 1310,CSC 3300,1,Data Structures
+CSC 3300,CSC 4610,1,Databases
+CSC 4610,CSC 4620,1,Software Engineering 1
+CSC 2400,CSC 3220,1,Design of Algorithms
+CSC 3220,CSC 4220,1,Intro to Data Science
